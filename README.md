@@ -8,6 +8,8 @@ The language playground is intended as a place for me to test out new languages 
 
 #### Languages Covered:
 
-1. Ruby on Rails
+1. Haskell -> I hope to learn some functional programming and get better with recursion.
 
-2. Golang
+2. Ruby on Rails
+
+3. Golang
